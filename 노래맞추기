@@ -1,0 +1,25 @@
+def guess_lyrics():
+    correct = 0
+    print('노래 제목을 맞춰 주세요\n')
+    first = input("나만 몰랐었던 ??? 분명히 느껴져 must be ???")
+    if first == 'something' or first == '썸띵':
+        correct += 1
+
+    second = input("그대의 연예인이되어~ 평생을 웃게 해줄께요~")
+    if second == '연예인':
+        correct += 1
+
+    third = input("(2점)\n사랑해요 고마운 내사람~")
+    if third == '라라라':
+        correct += 2
+
+    if correct == 4:
+        print("만점입니다 축하합니다!!")
+    elif correct >= 2:
+        print("꽤 잘하네요 당신은 {}점 입니다.".format(correct))
+    elif correct == 1:
+        print("실망스럽네요 우리나라 사람 맞습니까? 당신은 {}점 입니다.".format(correct))
+    else:
+        print('간첩신고는 111')
+        
+guess_lyrics()        
