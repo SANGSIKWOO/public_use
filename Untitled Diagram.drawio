@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T00:48:10.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gnmwg2V8OmhRiDfXhRQg" version="15.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-16T01:52:42.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="22yUbzmCkzfOk2DwYQG1" version="15.7.3" type="github" pages="2">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="1274" dy="2109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="1152" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -358,7 +358,7 @@
         <mxCell id="9OUrm7MxRyDZbP5OYTRy-262" value="새로나온 &#xa;기구 소개" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="jsKrFUnNUoFfjtstZBAS-260">
           <mxGeometry x="37" y="110.00000000000043" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9OUrm7MxRyDZbP5OYTRy-263" value="영양제 정보" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="jsKrFUnNUoFfjtstZBAS-260">
+        <mxCell id="9OUrm7MxRyDZbP5OYTRy-263" value="보충제 정보" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="jsKrFUnNUoFfjtstZBAS-260">
           <mxGeometry x="37" y="194.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9OUrm7MxRyDZbP5OYTRy-264" value="운동 유형 검사" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="jsKrFUnNUoFfjtstZBAS-260">
